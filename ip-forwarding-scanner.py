@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''
 CVE-1999-0511
 https://nvd.nist.gov/vuln/detail/CVE-1999-0511
